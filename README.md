@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Contraill/Contraill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5A0&center=true&vCenter=true&width=480&lines=Hey%2C+I'm+Contraill+%F0%9F%91%8B;Turning+coffee+into+working+software+%E2%98%95;I.T.+Student+%26+Developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+```json
+{
+  "name"        : "Contraill",
+  "role"        : "I.T. Student & Developer",
+  "education"   : "Information Technology",
+  "based_in"    : "Turkey 🇹🇷",
+  "looking_for" : "internship & junior roles",
+  "currently"   : "working on a new project 🚧"
+}
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,php,vue,mysql,c,cpp,git,github,linux,vscode&perline=7" />
+  </a>
+</div>
+
+---
+
+### 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Contraill&theme=github-compact&bg_color=0d1117&color=00e5a0&line=00e5a0&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+<!-- Profile view counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Contraill&color=00e5a0&style=flat-square&label=profile+views" />
+</div>
