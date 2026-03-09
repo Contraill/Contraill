@@ -10,7 +10,7 @@
 
 ```json
 {
-  "name"        : "Contraill",
+  "name"        : "İzzet Can Öztozlu",
   "role"        : "I.T. Student & Developer",
   "education"   : "Information Technology",
   "based_in"    : "Turkey 🇹🇷",
