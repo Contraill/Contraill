@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="38" viewBox="0 0 200 38" role="img" aria-label="izzet@oztozlu.dev">
+  <rect x=".75" y=".75" width="198.5" height="36.5" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <g transform="translate(14 11.0)"><g fill="none" stroke="#C6A0F6" stroke-width="1.6" stroke-linejoin="round"><rect x=".8" y="2.5" width="14.4" height="11" rx="2"/><path d="M1.5 3.5 8 9l6.5-5.5"/></g></g>
+  <text x="40" y="24.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#e6edf3">izzet@oztozlu.dev</text>
+</svg>

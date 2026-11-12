@@ -1,63 +1,39 @@
-<div align="center">
+<p align="center">
+  <a href="https://oztozlu.dev"><img src="./assets/banner.svg" alt="İzzet Can Öztozlu, Full-Stack Developer" width="100%"></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=Hey%2C+I%27m+İzzet+%F0%9F%91%8B%F0%9F%8F%BB;Turning+coffee+into+working+software;I.T.+Student+%26+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://oztozlu.dev"><img src="./assets/badge-web.svg" alt="oztozlu.dev" height="38"></a>&nbsp;
+  <a href="https://linkedin.com/in/izzetcanoztozlu"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" height="38"></a>&nbsp;
+  <a href="mailto:izzet@oztozlu.dev"><img src="./assets/badge-mail.svg" alt="izzet@oztozlu.dev" height="38"></a>
+</p>
 
-</div>
+<br>
 
----
+<p align="center">
+  Hi, I'm İzzet 👋🏻 I'm a full-stack developer who likes owning the whole path of a product,<br>
+  from the first sketch to the server it runs on.
+</p>
 
-### 👨‍💻 About Me
+<p align="center">
+  <b>End to end.</b> I design the interface, build the API behind it and deploy it myself.<br>
+  <b>Tested before it ships.</b> Unit tests, end-to-end tests and a CI pipeline that has to go green first.<br>
+  <b>Always tinkering.</b> When I'm not building for the web, I'm running my homelab,<br>
+  writing firmware for tiny gadgets or reworking my Linux desktop for the hundredth time.
+</p>
 
-```json
-{
-  "name"        : "İzzet Can Öztozlu",
-  "role"        : "I.T. Student & Developer",
-  "education"   : "Information Technology",
-  "based_in"    : "Turkey 🇹🇷",
-  "looking_for" : "internship & junior roles",
-  "currently"   : "working on a new project 🚧"
-}
-```
+<p align="center">
+If you're building something interesting, I'd love to hear about it.
+</p>
 
----
+<br>
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="./assets/stack.svg" alt="Tech stack: TypeScript, JavaScript, Python, Java, C++, PHP, Bash, React, Next.js, Vue, Three.js, Tailwind, Vite, Node.js, Express, FastAPI, Socket.IO, SQLAlchemy, SQLite, MySQL, Firebase, Vitest, Playwright, pytest, GitHub Actions, Docker, Vercel, Git, Arch Linux, Debian, Raspberry Pi, Tailscale, OpenWrt, nginx" width="100%">
+</p>
 
-#### Languages
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,php,c,cpp,bash" />
-  </a>
-</div>
+<p align="center">
+  <img src="./assets/fastfetch.svg" alt="fastfetch: CachyOS, KDE Plasma 6, fish, kitty, VS Code, Raspberry Pi homelab on Tailscale" width="100%">
+</p>
 
-#### Frontend
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,vue" />
-  </a>
-</div>
-
-#### Database
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-  </a>
-</div>
-
-#### Tools & Environment
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch,arduino,ps,vscode,windows" />
-  </a>
-</div>
-
----
-
-### 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Contraill&theme=github-compact&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<!-- invisible view counter -->
-![](https://komarev.com/ghpvc/?username=Contraill&style=pixel)
+<img src="https://komarev.com/ghpvc/?username=Contraill&style=pixel" width="0" height="0" alt="">
